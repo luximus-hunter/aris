@@ -1,14 +1,15 @@
 {
+	"credit": "luximus-hunter",
   "variants": {
     "": [
       { "model": "block/bricks" },
-      { "model": "block/variated/bricks/bricks_01" },
-      { "model": "block/variated/bricks/bricks_02" },
-      { "model": "block/variated/bricks/bricks_03" },
-      { "model": "block/variated/bricks/bricks_04" },
-      { "model": "block/variated/bricks/bricks_05" },
-      { "model": "block/variated/bricks/bricks_06" },
-      { "model": "block/variated/bricks/bricks_07" }
+      { "model": "aris/blocks/bricks/01" },
+      { "model": "aris/blocks/bricks/02" },
+      { "model": "aris/blocks/bricks/03" },
+      { "model": "aris/blocks/bricks/04" },
+      { "model": "aris/blocks/bricks/05" },
+      { "model": "aris/blocks/bricks/06" },
+      { "model": "aris/blocks/bricks/07" }
     ]
   }
 }

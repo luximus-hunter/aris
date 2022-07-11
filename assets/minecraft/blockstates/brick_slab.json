@@ -1,35 +1,35 @@
 {
+	"credit": "luximus-hunter",
   "variants": {
-
     "type=bottom": [
       {"model": "block/brick_slab"},
-      {"model": "block/variated/brick_slab/brick_slab_01"},
-      {"model": "block/variated/brick_slab/brick_slab_02"},
-      {"model": "block/variated/brick_slab/brick_slab_03"},
-      {"model": "block/variated/brick_slab/brick_slab_04"},
-      {"model": "block/variated/brick_slab/brick_slab_05"},
-      {"model": "block/variated/brick_slab/brick_slab_06"},
-      {"model": "block/variated/brick_slab/brick_slab_07"}
+      {"model": "aris/blocks/brick_slab/01"},
+      {"model": "aris/blocks/brick_slab/02"},
+      {"model": "aris/blocks/brick_slab/03"},
+      {"model": "aris/blocks/brick_slab/04"},
+      {"model": "aris/blocks/brick_slab/05"},
+      {"model": "aris/blocks/brick_slab/06"},
+      {"model": "aris/blocks/brick_slab/07"}
     ],
     "type=top": [
       {"model": "block/brick_slab_top"},
-      {"model": "block/variated/brick_slab_top/brick_slab_top_01"},
-      {"model": "block/variated/brick_slab_top/brick_slab_top_02"},
-      {"model": "block/variated/brick_slab_top/brick_slab_top_03"},
-      {"model": "block/variated/brick_slab_top/brick_slab_top_04"},
-      {"model": "block/variated/brick_slab_top/brick_slab_top_05"},
-      {"model": "block/variated/brick_slab_top/brick_slab_top_06"},
-      {"model": "block/variated/brick_slab_top/brick_slab_top_07"}
+      {"model": "aris/blocks/brick_slab_top/01"},
+      {"model": "aris/blocks/brick_slab_top/02"},
+      {"model": "aris/blocks/brick_slab_top/03"},
+      {"model": "aris/blocks/brick_slab_top/04"},
+      {"model": "aris/blocks/brick_slab_top/05"},
+      {"model": "aris/blocks/brick_slab_top/06"},
+      {"model": "aris/blocks/brick_slab_top/07"}
     ],
     "type=double": [
       {"model": "block/bricks"},
-      {"model": "block/variated/bricks/bricks_01"},
-      {"model": "block/variated/bricks/bricks_02"},
-      {"model": "block/variated/bricks/bricks_03"},
-      {"model": "block/variated/bricks/bricks_04"},
-      {"model": "block/variated/bricks/bricks_05"},
-      {"model": "block/variated/bricks/bricks_06"},
-      {"model": "block/variated/bricks/bricks_07"}
+      {"model": "aris/blocks/bricks/01"},
+      {"model": "aris/blocks/bricks/02"},
+      {"model": "aris/blocks/bricks/03"},
+      {"model": "aris/blocks/bricks/04"},
+      {"model": "aris/blocks/bricks/05"},
+      {"model": "aris/blocks/bricks/06"},
+      {"model": "aris/blocks/bricks/07"}
     ]
   }
 }

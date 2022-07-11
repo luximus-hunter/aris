@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "top": "aris/blocks/bricks/04",
+    "side": "aris/blocks/bricks/04",
+    "bottom": "aris/blocks/bricks/04"
+  }
+}
