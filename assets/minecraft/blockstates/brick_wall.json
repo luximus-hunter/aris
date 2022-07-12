@@ -7,13 +7,13 @@
       },
       "apply": [
 				{ "model": "block/brick_wall_post" },
-				{ "model": "aris/blocks/brick_wall_post/01" },
-				{ "model": "aris/blocks/brick_wall_post/02" },
-				{ "model": "aris/blocks/brick_wall_post/03" },
-				{ "model": "aris/blocks/brick_wall_post/04" },
-				{ "model": "aris/blocks/brick_wall_post/05" },
-				{ "model": "aris/blocks/brick_wall_post/06" },
-				{ "model": "aris/blocks/brick_wall_post/07" }
+				{ "model": "aris/blocks/bricks/wall_post/01" },
+				{ "model": "aris/blocks/bricks/wall_post/02" },
+				{ "model": "aris/blocks/bricks/wall_post/03" },
+				{ "model": "aris/blocks/bricks/wall_post/04" },
+				{ "model": "aris/blocks/bricks/wall_post/05" },
+				{ "model": "aris/blocks/bricks/wall_post/06" },
+				{ "model": "aris/blocks/bricks/wall_post/07" }
 	  	]
     },
     {
@@ -22,13 +22,13 @@
       },
       "apply": [
 				{ "model": "block/brick_wall_side", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/01", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/02", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/03", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/04", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/05", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/06", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/07", "uvlock": true }
+				{ "model": "aris/blocks/bricks/wall_side/01", "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/02", "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/03", "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/04", "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/05", "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/06", "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/07", "uvlock": true }
 			]
     },
     {
@@ -37,13 +37,13 @@
       },
       "apply": [
 				{ "model": "block/brick_wall_side", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/01", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/02", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/03", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/04", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/05", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/06", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/07", "y": 90, "uvlock": true }
+				{ "model": "aris/blocks/bricks/wall_side/01", "y": 90, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/02", "y": 90, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/03", "y": 90, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/04", "y": 90, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/05", "y": 90, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/06", "y": 90, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/07", "y": 90, "uvlock": true }
 	  	]
     },
     {
@@ -52,13 +52,13 @@
       },
       "apply": [
 				{ "model": "block/brick_wall_side", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/01", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/02", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/03", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/04", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/05", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/06", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/07", "y": 180, "uvlock": true }
+				{ "model": "aris/blocks/bricks/wall_side/01", "y": 180, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/02", "y": 180, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/03", "y": 180, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/04", "y": 180, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/05", "y": 180, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/06", "y": 180, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/07", "y": 180, "uvlock": true }
 	  	]
     },
     {
@@ -67,13 +67,13 @@
       },
       "apply": [
 				{ "model": "block/brick_wall_side", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/01", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/02", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/03", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/04", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/05", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/06", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side/07", "y": 270, "uvlock": true }
+				{ "model": "aris/blocks/bricks/wall_side/01", "y": 270, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/02", "y": 270, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/03", "y": 270, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/04", "y": 270, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/05", "y": 270, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/06", "y": 270, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side/07", "y": 270, "uvlock": true }
 	  	]
     },
     {
@@ -82,13 +82,13 @@
       },
       "apply": [
 				{ "model": "block/brick_wall_side_tall", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/01", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/02", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/03", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/04", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/05", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/06", "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/07", "uvlock": true }
+				{ "model": "aris/blocks/bricks/wall_side_tall/01", "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/02", "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/03", "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/04", "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/05", "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/06", "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/07", "uvlock": true }
 	  	]
     },
     {
@@ -97,13 +97,13 @@
       },
       "apply": [
 				{ "model": "block/brick_wall_side_tall", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/01", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/02", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/03", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/04", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/05", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/06", "y": 90, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/07", "y": 90, "uvlock": true }
+				{ "model": "aris/blocks/bricks/wall_side_tall/01", "y": 90, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/02", "y": 90, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/03", "y": 90, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/04", "y": 90, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/05", "y": 90, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/06", "y": 90, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/07", "y": 90, "uvlock": true }
 	  	]
     },
     {
@@ -112,13 +112,13 @@
       },
       "apply": [
 				{ "model": "block/brick_wall_side_tall", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/01", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/02", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/03", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/04", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/05", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/06", "y": 180, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/07", "y": 180, "uvlock": true }
+				{ "model": "aris/blocks/bricks/wall_side_tall/01", "y": 180, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/02", "y": 180, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/03", "y": 180, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/04", "y": 180, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/05", "y": 180, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/06", "y": 180, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/07", "y": 180, "uvlock": true }
 	  	]
     },
     {
@@ -127,13 +127,13 @@
       },
       "apply": [
 				{ "model": "block/brick_wall_side_tall", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/01", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/02", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/03", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/04", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/05", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/06", "y": 270, "uvlock": true },
-				{ "model": "aris/blocks/brick_wall_side_tall/07", "y": 270, "uvlock": true }
+				{ "model": "aris/blocks/bricks/wall_side_tall/01", "y": 270, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/02", "y": 270, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/03", "y": 270, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/04", "y": 270, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/05", "y": 270, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/06", "y": 270, "uvlock": true },
+				{ "model": "aris/blocks/bricks/wall_side_tall/07", "y": 270, "uvlock": true }
 	  	]
     }
   ]

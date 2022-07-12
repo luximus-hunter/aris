@@ -3,33 +3,33 @@
   "variants": {
     "type=bottom": [
       {"model": "block/brick_slab"},
-      {"model": "aris/blocks/brick_slab/01"},
-      {"model": "aris/blocks/brick_slab/02"},
-      {"model": "aris/blocks/brick_slab/03"},
-      {"model": "aris/blocks/brick_slab/04"},
-      {"model": "aris/blocks/brick_slab/05"},
-      {"model": "aris/blocks/brick_slab/06"},
-      {"model": "aris/blocks/brick_slab/07"}
+      {"model": "aris/blocks/bricks/slab/01"},
+      {"model": "aris/blocks/bricks/slab/02"},
+      {"model": "aris/blocks/bricks/slab/03"},
+      {"model": "aris/blocks/bricks/slab/04"},
+      {"model": "aris/blocks/bricks/slab/05"},
+      {"model": "aris/blocks/bricks/slab/06"},
+      {"model": "aris/blocks/bricks/slab/07"}
     ],
     "type=top": [
       {"model": "block/brick_slab_top"},
-      {"model": "aris/blocks/brick_slab_top/01"},
-      {"model": "aris/blocks/brick_slab_top/02"},
-      {"model": "aris/blocks/brick_slab_top/03"},
-      {"model": "aris/blocks/brick_slab_top/04"},
-      {"model": "aris/blocks/brick_slab_top/05"},
-      {"model": "aris/blocks/brick_slab_top/06"},
-      {"model": "aris/blocks/brick_slab_top/07"}
+      {"model": "aris/blocks/bricks/slab_top/01"},
+      {"model": "aris/blocks/bricks/slab_top/02"},
+      {"model": "aris/blocks/bricks/slab_top/03"},
+      {"model": "aris/blocks/bricks/slab_top/04"},
+      {"model": "aris/blocks/bricks/slab_top/05"},
+      {"model": "aris/blocks/bricks/slab_top/06"},
+      {"model": "aris/blocks/bricks/slab_top/07"}
     ],
     "type=double": [
       {"model": "block/bricks"},
-      {"model": "aris/blocks/bricks/01"},
-      {"model": "aris/blocks/bricks/02"},
-      {"model": "aris/blocks/bricks/03"},
-      {"model": "aris/blocks/bricks/04"},
-      {"model": "aris/blocks/bricks/05"},
-      {"model": "aris/blocks/bricks/06"},
-      {"model": "aris/blocks/bricks/07"}
+      {"model": "aris/blocks/bricks/block/01"},
+      {"model": "aris/blocks/bricks/block/02"},
+      {"model": "aris/blocks/bricks/block/03"},
+      {"model": "aris/blocks/bricks/block/04"},
+      {"model": "aris/blocks/bricks/block/05"},
+      {"model": "aris/blocks/bricks/block/06"},
+      {"model": "aris/blocks/bricks/block/07"}
     ]
   }
 }
