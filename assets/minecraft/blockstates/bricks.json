@@ -3,13 +3,13 @@
   "variants": {
     "": [
       { "model": "block/bricks" },
-      { "model": "aris/blocks/bricks/brick/01" },
-      { "model": "aris/blocks/bricks/brick/02" },
-      { "model": "aris/blocks/bricks/brick/03" },
-      { "model": "aris/blocks/bricks/brick/04" },
-      { "model": "aris/blocks/bricks/brick/05" },
-      { "model": "aris/blocks/bricks/brick/06" },
-      { "model": "aris/blocks/bricks/brick/07" }
+      { "model": "aris/blocks/bricks/block/01" },
+      { "model": "aris/blocks/bricks/block/02" },
+      { "model": "aris/blocks/bricks/block/03" },
+      { "model": "aris/blocks/bricks/block/04" },
+      { "model": "aris/blocks/bricks/block/05" },
+      { "model": "aris/blocks/bricks/block/06" },
+      { "model": "aris/blocks/bricks/block/07" }
     ]
   }
 }
