@@ -1,13 +1,32 @@
 {
+	"credit": "luximus-hunter",
   "variants": {
-    "type=bottom": {
-      "model": "minecraft:block/oxidized_cut_copper_slab"
-    },
-    "type=double": {
-      "model": "minecraft:block/oxidized_cut_copper"
-    },
-    "type=top": {
-      "model": "minecraft:block/oxidized_cut_copper_slab_top"
-    }
+    "type=bottom": [
+      {"model": "block/oxidized_cut_copper_slab"},
+      {"model": "aris/blocks/copper/cut/oxidized/slab/01"},
+      {"model": "aris/blocks/copper/cut/oxidized/slab/02"},
+      {"model": "aris/blocks/copper/cut/oxidized/slab/03"},
+      {"model": "aris/blocks/copper/cut/oxidized/slab/04"},
+      {"model": "aris/blocks/copper/cut/oxidized/slab/05"},
+      {"model": "aris/blocks/copper/cut/oxidized/slab/06"}
+    ],
+    "type=top": [
+      {"model": "block/oxidized_cut_copper_slab_top"},
+      {"model": "aris/blocks/copper/cut/oxidized/slab_top/01"},
+      {"model": "aris/blocks/copper/cut/oxidized/slab_top/02"},
+      {"model": "aris/blocks/copper/cut/oxidized/slab_top/03"},
+      {"model": "aris/blocks/copper/cut/oxidized/slab_top/04"},
+      {"model": "aris/blocks/copper/cut/oxidized/slab_top/05"},
+      {"model": "aris/blocks/copper/cut/oxidized/slab_top/06"}
+    ],
+    "type=double": [
+      {"model": "block/oxidized_cut_copper"},
+      {"model": "aris/blocks/copper/cut/oxidized/block/01"},
+      {"model": "aris/blocks/copper/cut/oxidized/block/02"},
+      {"model": "aris/blocks/copper/cut/oxidized/block/03"},
+      {"model": "aris/blocks/copper/cut/oxidized/block/04"},
+      {"model": "aris/blocks/copper/cut/oxidized/block/05"},
+      {"model": "aris/blocks/copper/cut/oxidized/block/06"}
+    ]
   }
 }

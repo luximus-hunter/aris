@@ -1,13 +1,32 @@
 {
+	"credit": "luximus-hunter",
   "variants": {
-    "type=bottom": {
-      "model": "minecraft:block/cut_copper_slab"
-    },
-    "type=double": {
-      "model": "minecraft:block/cut_copper"
-    },
-    "type=top": {
-      "model": "minecraft:block/cut_copper_slab_top"
-    }
+    "type=bottom": [
+      {"model": "block/cut_copper_slab"},
+      {"model": "aris/blocks/copper/cut/normal/slab/01"},
+      {"model": "aris/blocks/copper/cut/normal/slab/02"},
+      {"model": "aris/blocks/copper/cut/normal/slab/03"},
+      {"model": "aris/blocks/copper/cut/normal/slab/04"},
+      {"model": "aris/blocks/copper/cut/normal/slab/05"},
+      {"model": "aris/blocks/copper/cut/normal/slab/06"}
+    ],
+    "type=top": [
+      {"model": "block/cut_copper_slab_top"},
+      {"model": "aris/blocks/copper/cut/normal/slab_top/01"},
+      {"model": "aris/blocks/copper/cut/normal/slab_top/02"},
+      {"model": "aris/blocks/copper/cut/normal/slab_top/03"},
+      {"model": "aris/blocks/copper/cut/normal/slab_top/04"},
+      {"model": "aris/blocks/copper/cut/normal/slab_top/05"},
+      {"model": "aris/blocks/copper/cut/normal/slab_top/06"}
+    ],
+    "type=double": [
+      {"model": "block/cut_copper"},
+      {"model": "aris/blocks/copper/cut/normal/block/01"},
+      {"model": "aris/blocks/copper/cut/normal/block/02"},
+      {"model": "aris/blocks/copper/cut/normal/block/03"},
+      {"model": "aris/blocks/copper/cut/normal/block/04"},
+      {"model": "aris/blocks/copper/cut/normal/block/05"},
+      {"model": "aris/blocks/copper/cut/normal/block/06"}
+    ]
   }
 }

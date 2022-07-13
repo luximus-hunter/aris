@@ -1,13 +1,32 @@
 {
+	"credit": "luximus-hunter",
   "variants": {
-    "type=bottom": {
-      "model": "minecraft:block/weathered_cut_copper_slab"
-    },
-    "type=double": {
-      "model": "minecraft:block/weathered_cut_copper"
-    },
-    "type=top": {
-      "model": "minecraft:block/weathered_cut_copper_slab_top"
-    }
+    "type=bottom": [
+      {"model": "block/weathered_cut_copper_slab"},
+      {"model": "aris/blocks/copper/cut/weathered/slab/01"},
+      {"model": "aris/blocks/copper/cut/weathered/slab/02"},
+      {"model": "aris/blocks/copper/cut/weathered/slab/03"},
+      {"model": "aris/blocks/copper/cut/weathered/slab/04"},
+      {"model": "aris/blocks/copper/cut/weathered/slab/05"},
+      {"model": "aris/blocks/copper/cut/weathered/slab/06"}
+    ],
+    "type=top": [
+      {"model": "block/weathered_cut_copper_slab_top"},
+      {"model": "aris/blocks/copper/cut/weathered/slab_top/01"},
+      {"model": "aris/blocks/copper/cut/weathered/slab_top/02"},
+      {"model": "aris/blocks/copper/cut/weathered/slab_top/03"},
+      {"model": "aris/blocks/copper/cut/weathered/slab_top/04"},
+      {"model": "aris/blocks/copper/cut/weathered/slab_top/05"},
+      {"model": "aris/blocks/copper/cut/weathered/slab_top/06"}
+    ],
+    "type=double": [
+      {"model": "block/weathered_cut_copper"},
+      {"model": "aris/blocks/copper/cut/weathered/block/01"},
+      {"model": "aris/blocks/copper/cut/weathered/block/02"},
+      {"model": "aris/blocks/copper/cut/weathered/block/03"},
+      {"model": "aris/blocks/copper/cut/weathered/block/04"},
+      {"model": "aris/blocks/copper/cut/weathered/block/05"},
+      {"model": "aris/blocks/copper/cut/weathered/block/06"}
+    ]
   }
 }
