@@ -1,7 +1,14 @@
 {
+	"credit": "luximus-hunter",
   "variants": {
-    "": {
-      "model": "minecraft:block/cut_copper"
-    }
+    "": [
+      { "model": "block/cut_copper" },
+      { "model": "aris/blocks/copper/cut/normal/block/01" },
+      { "model": "aris/blocks/copper/cut/normal/block/02" },
+      { "model": "aris/blocks/copper/cut/normal/block/03" },
+      { "model": "aris/blocks/copper/cut/normal/block/04" },
+      { "model": "aris/blocks/copper/cut/normal/block/05" },
+      { "model": "aris/blocks/copper/cut/normal/block/06" }
+    ]
   }
 }

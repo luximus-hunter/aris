@@ -1,7 +1,14 @@
 {
+	"credit": "luximus-hunter",
   "variants": {
-    "": {
-      "model": "minecraft:block/weathered_cut_copper"
-    }
+    "": [
+      { "model": "block/weathered_cut_copper" },
+      { "model": "aris/blocks/copper/cut/weathered/block/01" },
+      { "model": "aris/blocks/copper/cut/weathered/block/02" },
+      { "model": "aris/blocks/copper/cut/weathered/block/03" },
+      { "model": "aris/blocks/copper/cut/weathered/block/04" },
+      { "model": "aris/blocks/copper/cut/weathered/block/05" },
+      { "model": "aris/blocks/copper/cut/weathered/block/06" }
+    ]
   }
 }

@@ -1,7 +1,14 @@
 {
+	"credit": "luximus-hunter",
   "variants": {
-    "": {
-      "model": "minecraft:block/exposed_cut_copper"
-    }
+    "": [
+      { "model": "block/exposed_cut_copper" },
+      { "model": "aris/blocks/copper/cut/exposed/block/01" },
+      { "model": "aris/blocks/copper/cut/exposed/block/02" },
+      { "model": "aris/blocks/copper/cut/exposed/block/03" },
+      { "model": "aris/blocks/copper/cut/exposed/block/04" },
+      { "model": "aris/blocks/copper/cut/exposed/block/05" },
+      { "model": "aris/blocks/copper/cut/exposed/block/06" }
+    ]
   }
 }

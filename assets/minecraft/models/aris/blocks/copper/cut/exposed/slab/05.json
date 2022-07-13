@@ -2,8 +2,8 @@
 	"credit": "luximus-hunter",
   "parent": "block/slab",
   "textures": {
-    "top": "aris/blocks/bricks/05",
-    "side": "aris/blocks/bricks/05",
-    "bottom": "aris/blocks/bricks/05"
+    "top": "aris/blocks/copper/cut/exposed/05",
+    "side": "aris/blocks/copper/cut/exposed/05",
+    "bottom": "aris/blocks/copper/cut/exposed/05"
   }
 }

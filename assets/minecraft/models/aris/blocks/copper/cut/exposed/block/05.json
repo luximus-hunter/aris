@@ -2,6 +2,6 @@
 	"credit": "luximus-hunter",
   "parent": "block/cube_all",
   "textures": {
-    "all": "aris/blocks/bricks/05"
+    "all": "aris/blocks/copper/cut/exposed/05"
   }
 }

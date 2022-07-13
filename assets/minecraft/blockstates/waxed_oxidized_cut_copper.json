@@ -1,7 +1,14 @@
 {
+	"credit": "luximus-hunter",
   "variants": {
-    "": {
-      "model": "minecraft:block/oxidized_cut_copper"
-    }
+    "": [
+      { "model": "block/oxidized_cut_copper" },
+      { "model": "aris/blocks/copper/cut/oxidized/block/01" },
+      { "model": "aris/blocks/copper/cut/oxidized/block/02" },
+      { "model": "aris/blocks/copper/cut/oxidized/block/03" },
+      { "model": "aris/blocks/copper/cut/oxidized/block/04" },
+      { "model": "aris/blocks/copper/cut/oxidized/block/05" },
+      { "model": "aris/blocks/copper/cut/oxidized/block/06" }
+    ]
   }
 }

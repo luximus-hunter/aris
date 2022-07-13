@@ -2,8 +2,8 @@
 	"credit": "luximus-hunter",
   "parent": "block/stairs",
   "textures": {
-    "top": "aris/blocks/bricks/01",
-    "side": "aris/blocks/bricks/01",
-    "bottom": "aris/blocks/bricks/01"
+    "top": "aris/blocks/copper/cut/normal/01",
+    "side": "aris/blocks/copper/cut/normal/01",
+    "bottom": "aris/blocks/copper/cut/normal/01"
   }
 }
