@@ -12,7 +12,7 @@ _Random texturs for Minecraft._
 
 ## Download
 
-Click the `Code` button at the top of the page, and then `Download ZIP`.
+Click the `Code` button at the top of the page, and then `Download ZIP`. Unzip that and put the folder inside into your Minecraft resource packs.
 
 ## Currently supported blocks
 
