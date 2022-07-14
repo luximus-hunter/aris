@@ -1,0 +1,9 @@
+{
+	"credit": "luximus-hunter",
+  "parent": "block/slab_top",
+  "textures": {
+    "top": "aris/blocks/prismarine/dark/02",
+    "side": "aris/blocks/prismarine/dark/02",
+    "bottom": "aris/blocks/prismarine/dark/02"
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"credit": "luximus-hunter",
+  "variants": {
+    "": [
+      { "model": "block/dark_prismarine" },
+      { "model": "aris/blocks/prismarine/dark/block/01" },
+      { "model": "aris/blocks/prismarine/dark/block/02" },
+      { "model": "aris/blocks/prismarine/dark/block/03" },
+      { "model": "aris/blocks/prismarine/dark/block/04" },
+      { "model": "aris/blocks/prismarine/dark/block/05" },
+      { "model": "aris/blocks/prismarine/dark/block/06" }
+    ]
+  }
+}

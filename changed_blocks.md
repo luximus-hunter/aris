@@ -4,7 +4,7 @@
 
 - 🟢: Added
 - 🟠: In progress
-- 🔴: Not started
+- 🔴: Planned
 
 ## List
 
@@ -51,9 +51,10 @@
 |   🟢   | purpur stairs                     |
 |   🟢   | purpur slab                       |
 |   🟢   | purpur pillar                     |
-|   🟠   | dark prismarine                   |
-|   🟠   | dark prismarine stairs            |
-|   🟠   | dark prismarine slab              |
+|   🟢   | dark prismarine                   |
+|   🟢   | dark prismarine stairs            |
+|   🟢   | dark prismarine slab              |
+|   🟠   | bookshelf                         |
 |   🔴   | mud bricks                        |
 |   🔴   | mud brick stairs                  |
 |   🔴   | mud brick slab                    |
@@ -87,5 +88,4 @@
 |   🔴   | blackstone brick slab             |
 |   🔴   | blackstone brick wall             |
 |   🔴   | cracked blackstone bricks         |
-|   🔴   | bookshelf                         |
 |   🔴   | red mushroom block                |

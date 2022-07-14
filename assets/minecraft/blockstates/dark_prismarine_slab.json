@@ -1,0 +1,32 @@
+{
+	"credit": "luximus-hunter",
+  "variants": {
+    "type=bottom": [
+      {"model": "block/dark_prismarine_slab"},
+      {"model": "aris/blocks/prismarine/dark/slab/01"},
+      {"model": "aris/blocks/prismarine/dark/slab/02"},
+      {"model": "aris/blocks/prismarine/dark/slab/03"},
+      {"model": "aris/blocks/prismarine/dark/slab/04"},
+      {"model": "aris/blocks/prismarine/dark/slab/05"},
+      {"model": "aris/blocks/prismarine/dark/slab/06"}
+    ],
+    "type=top": [
+      {"model": "block/dark_prismarine_slab_top"},
+      {"model": "aris/blocks/prismarine/dark/slab_top/01"},
+      {"model": "aris/blocks/prismarine/dark/slab_top/02"},
+      {"model": "aris/blocks/prismarine/dark/slab_top/03"},
+      {"model": "aris/blocks/prismarine/dark/slab_top/04"},
+      {"model": "aris/blocks/prismarine/dark/slab_top/05"},
+      {"model": "aris/blocks/prismarine/dark/slab_top/06"}
+    ],
+    "type=double": [
+      {"model": "block/dark_prismarine_slab"},
+      {"model": "aris/blocks/prismarine/dark/block/01"},
+      {"model": "aris/blocks/prismarine/dark/block/02"},
+      {"model": "aris/blocks/prismarine/dark/block/03"},
+      {"model": "aris/blocks/prismarine/dark/block/04"},
+      {"model": "aris/blocks/prismarine/dark/block/05"},
+      {"model": "aris/blocks/prismarine/dark/block/06"}
+    ]
+  }
+}
