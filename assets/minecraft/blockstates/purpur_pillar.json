@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "axis=x": [
+      {"model": "block/purpur_pillar", "x": 90, "y": 90},
+      {"model": "aris/blocks/purpur/pillar/01", "x": 90, "y": 90},
+      {"model": "aris/blocks/purpur/pillar/02", "x": 90, "y": 90},
+      {"model": "aris/blocks/purpur/pillar/03", "x": 90, "y": 90},
+      {"model": "aris/blocks/purpur/pillar/04", "x": 90, "y": 90},
+      {"model": "aris/blocks/purpur/pillar/05", "x": 90, "y": 90},
+      {"model": "aris/blocks/purpur/pillar/06", "x": 90, "y": 90}
+    ],
+    "axis=y": [
+      {"model": "block/purpur_pillar"},
+      {"model": "aris/blocks/purpur/pillar/01"},
+      {"model": "aris/blocks/purpur/pillar/02"},
+      {"model": "aris/blocks/purpur/pillar/03"},
+      {"model": "aris/blocks/purpur/pillar/04"},
+      {"model": "aris/blocks/purpur/pillar/05"},
+      {"model": "aris/blocks/purpur/pillar/06"}
+    ],
+    "axis=z": [
+      {"model": "block/purpur_pillar", "x": 90},
+      {"model": "aris/blocks/purpur/pillar/01", "x": 90},
+      {"model": "aris/blocks/purpur/pillar/02", "x": 90},
+      {"model": "aris/blocks/purpur/pillar/03", "x": 90},
+      {"model": "aris/blocks/purpur/pillar/04", "x": 90},
+      {"model": "aris/blocks/purpur/pillar/05", "x": 90},
+      {"model": "aris/blocks/purpur/pillar/06", "x": 90}
+    ]
+  }
+}

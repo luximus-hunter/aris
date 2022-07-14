@@ -1,0 +1,14 @@
+{
+	"credit": "luximus-hunter",
+  "variants": {
+    "": [
+      { "model": "block/purpur_block" },
+      { "model": "aris/blocks/purpur/normal/block/01" },
+      { "model": "aris/blocks/purpur/normal/block/02" },
+      { "model": "aris/blocks/purpur/normal/block/03" },
+      { "model": "aris/blocks/purpur/normal/block/04" },
+      { "model": "aris/blocks/purpur/normal/block/05" },
+      { "model": "aris/blocks/purpur/normal/block/06" }
+    ]
+  }
+}

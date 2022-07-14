@@ -1,0 +1,9 @@
+{
+	"credit": "luximus-hunter",
+  "parent": "block/stairs",
+  "textures": {
+    "top": "aris/blocks/purpur/normal/01",
+    "side": "aris/blocks/purpur/normal/01",
+    "bottom": "aris/blocks/purpur/normal/01"
+  }
+}

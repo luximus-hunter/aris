@@ -1,0 +1,8 @@
+{
+	"credit": "luximus-hunter",
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/purpur_pillar_top",
+    "side": "aris/blocks/purpur/pillar/06"
+  }
+}

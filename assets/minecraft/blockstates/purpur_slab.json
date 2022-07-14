@@ -1,0 +1,32 @@
+{
+	"credit": "luximus-hunter",
+  "variants": {
+    "type=bottom": [
+      {"model": "block/purpur_slab"},
+      {"model": "aris/blocks/purpur/normal/slab/01"},
+      {"model": "aris/blocks/purpur/normal/slab/02"},
+      {"model": "aris/blocks/purpur/normal/slab/03"},
+      {"model": "aris/blocks/purpur/normal/slab/04"},
+      {"model": "aris/blocks/purpur/normal/slab/05"},
+      {"model": "aris/blocks/purpur/normal/slab/06"}
+    ],
+    "type=top": [
+      {"model": "block/purpur_slab_top"},
+      {"model": "aris/blocks/purpur/normal/slab_top/01"},
+      {"model": "aris/blocks/purpur/normal/slab_top/02"},
+      {"model": "aris/blocks/purpur/normal/slab_top/03"},
+      {"model": "aris/blocks/purpur/normal/slab_top/04"},
+      {"model": "aris/blocks/purpur/normal/slab_top/05"},
+      {"model": "aris/blocks/purpur/normal/slab_top/06"}
+    ],
+    "type=double": [
+      {"model": "block/purpur_slab"},
+      {"model": "aris/blocks/purpur/normal/block/01"},
+      {"model": "aris/blocks/purpur/normal/block/02"},
+      {"model": "aris/blocks/purpur/normal/block/03"},
+      {"model": "aris/blocks/purpur/normal/block/04"},
+      {"model": "aris/blocks/purpur/normal/block/05"},
+      {"model": "aris/blocks/purpur/normal/block/06"}
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "luximus-hunter",
+  "parent": "block/slab_top",
+  "textures": {
+    "top": "aris/blocks/purpur/normal/06",
+    "side": "aris/blocks/purpur/normal/06",
+    "bottom": "aris/blocks/purpur/normal/06"
+  }
+}
