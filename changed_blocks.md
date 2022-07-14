@@ -37,6 +37,10 @@
 - [x] mossy stone brick slab
 - [x] mossy stone brick wall
 - [x] cracked stone bricks
+- [x] purpur
+- [x] purpur stairs
+- [x] purpur slab
+- [x] purpur pillar
 - [ ] mud bricks
 - [ ] mud brick stairs
 - [ ] mud brick slab
@@ -74,9 +78,5 @@
 - [ ] dark prismarine stairs
 - [ ] dark prismarine slab
 - [ ] bookshelf
-- [ ] purpur
-- [ ] purpur stairs
-- [ ] purpur slab
-- [ ] purpur pillar
 - [ ] red mushroom block
 - [ ] more...
