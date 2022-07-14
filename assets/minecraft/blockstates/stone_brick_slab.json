@@ -1,0 +1,32 @@
+{
+	"credit": "luximus-hunter",
+  "variants": {
+    "type=bottom": [
+      {"model": "block/stone_brick_slab"},
+      {"model": "aris/blocks/stone/bricks/normal/slab/01"},
+      {"model": "aris/blocks/stone/bricks/normal/slab/02"},
+      {"model": "aris/blocks/stone/bricks/normal/slab/03"},
+      {"model": "aris/blocks/stone/bricks/normal/slab/04"},
+      {"model": "aris/blocks/stone/bricks/normal/slab/05"},
+      {"model": "aris/blocks/stone/bricks/normal/slab/06"}
+    ],
+    "type=top": [
+      {"model": "block/stone_brick_slab_top"},
+      {"model": "aris/blocks/stone/bricks/normal/slab_top/01"},
+      {"model": "aris/blocks/stone/bricks/normal/slab_top/02"},
+      {"model": "aris/blocks/stone/bricks/normal/slab_top/03"},
+      {"model": "aris/blocks/stone/bricks/normal/slab_top/04"},
+      {"model": "aris/blocks/stone/bricks/normal/slab_top/05"},
+      {"model": "aris/blocks/stone/bricks/normal/slab_top/06"}
+    ],
+    "type=double": [
+      {"model": "block/stone_bricks"},
+      {"model": "aris/blocks/stone/bricks/normal/block/01"},
+      {"model": "aris/blocks/stone/bricks/normal/block/02"},
+      {"model": "aris/blocks/stone/bricks/normal/block/03"},
+      {"model": "aris/blocks/stone/bricks/normal/block/04"},
+      {"model": "aris/blocks/stone/bricks/normal/block/05"},
+      {"model": "aris/blocks/stone/bricks/normal/block/06"}
+    ]
+  }
+}

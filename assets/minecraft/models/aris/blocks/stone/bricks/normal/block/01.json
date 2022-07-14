@@ -1,0 +1,7 @@
+{
+	"credit": "luximus-hunter",
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "aris/blocks/stone/bricks/normal/01"
+  }
+}

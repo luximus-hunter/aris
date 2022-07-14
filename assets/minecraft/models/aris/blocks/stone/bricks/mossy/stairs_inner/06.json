@@ -1,0 +1,9 @@
+{
+	"credit": "luximus-hunter",
+  "parent": "block/inner_stairs",
+  "textures": {
+    "top": "aris/blocks/stone/bricks/mossy/06",
+    "side": "aris/blocks/stone/bricks/mossy/06",
+    "bottom": "aris/blocks/stone/bricks/mossy/06"
+  }
+}

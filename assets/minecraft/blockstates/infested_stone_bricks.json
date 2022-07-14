@@ -1,0 +1,14 @@
+{
+	"credit": "luximus-hunter",
+  "variants": {
+    "": [
+      { "model": "block/stone_bricks" },
+      { "model": "aris/blocks/stone/bricks/normal/block/01" },
+      { "model": "aris/blocks/stone/bricks/normal/block/02" },
+      { "model": "aris/blocks/stone/bricks/normal/block/03" },
+      { "model": "aris/blocks/stone/bricks/normal/block/04" },
+      { "model": "aris/blocks/stone/bricks/normal/block/05" },
+      { "model": "aris/blocks/stone/bricks/normal/block/06" }
+    ]
+  }
+}

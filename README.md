@@ -1,6 +1,6 @@
 <center>
 
-# Aris
+# Aris Resource Pack
 
 _Random texturs for Minecraft._
 
@@ -25,9 +25,9 @@ Click the `Code` button at the top of the page, and then `Download ZIP`. Unzip t
 - [x] waxed exposed cut copper (block, stairs, slab)
 - [x] waxed weathered cut copper (block, stairs, slab)
 - [x] waxed oxidized cut copper (block, stairs, slab)
-- [ ] stone bricks (block, stairs, slab, wall)
-- [ ] mossy stone bricks (block, stairs, slab, wall)
-- [ ] cracked stone bricks (block)
+- [x] stone bricks (block, stairs, slab, wall)
+- [x] mossy stone bricks (block, stairs, slab, wall)
+- [x] cracked stone bricks (block)
 - [ ] mud bricks (block, stairs, slab, wall)
 - [ ] deepslate bricks (block, stairs, slab, wall)
 - [ ] cracked deepslate bricks (block)
@@ -44,4 +44,5 @@ Click the `Code` button at the top of the page, and then `Download ZIP`. Unzip t
 - [ ] bookshelf (block)
 - [ ] purpur (block, stairs, slab)
 - [ ] purpur pillar (block)
+- [ ] red mushroom (block)
 - [ ] more...

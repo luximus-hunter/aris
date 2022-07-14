@@ -1,0 +1,32 @@
+{
+	"credit": "luximus-hunter",
+  "variants": {
+    "type=bottom": [
+      {"model": "block/mossy_stone_brick_slab"},
+      {"model": "aris/blocks/stone/bricks/mossy/slab/01"},
+      {"model": "aris/blocks/stone/bricks/mossy/slab/02"},
+      {"model": "aris/blocks/stone/bricks/mossy/slab/03"},
+      {"model": "aris/blocks/stone/bricks/mossy/slab/04"},
+      {"model": "aris/blocks/stone/bricks/mossy/slab/05"},
+      {"model": "aris/blocks/stone/bricks/mossy/slab/06"}
+    ],
+    "type=top": [
+      {"model": "block/mossy_stone_brick_slab_top"},
+      {"model": "aris/blocks/stone/bricks/mossy/slab_top/01"},
+      {"model": "aris/blocks/stone/bricks/mossy/slab_top/02"},
+      {"model": "aris/blocks/stone/bricks/mossy/slab_top/03"},
+      {"model": "aris/blocks/stone/bricks/mossy/slab_top/04"},
+      {"model": "aris/blocks/stone/bricks/mossy/slab_top/05"},
+      {"model": "aris/blocks/stone/bricks/mossy/slab_top/06"}
+    ],
+    "type=double": [
+      {"model": "block/mossy_stone_bricks"},
+      {"model": "aris/blocks/stone/bricks/mossy/block/01"},
+      {"model": "aris/blocks/stone/bricks/mossy/block/02"},
+      {"model": "aris/blocks/stone/bricks/mossy/block/03"},
+      {"model": "aris/blocks/stone/bricks/mossy/block/04"},
+      {"model": "aris/blocks/stone/bricks/mossy/block/05"},
+      {"model": "aris/blocks/stone/bricks/mossy/block/06"}
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"credit": "luximus-hunter",
+  "variants": {
+    "": [
+      { "model": "block/mossy_stone_bricks" },
+      { "model": "aris/blocks/stone/bricks/mossy/block/01" },
+      { "model": "aris/blocks/stone/bricks/mossy/block/02" },
+      { "model": "aris/blocks/stone/bricks/mossy/block/03" },
+      { "model": "aris/blocks/stone/bricks/mossy/block/04" },
+      { "model": "aris/blocks/stone/bricks/mossy/block/05" },
+      { "model": "aris/blocks/stone/bricks/mossy/block/06" }
+    ]
+  }
+}

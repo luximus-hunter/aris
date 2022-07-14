@@ -1,0 +1,9 @@
+{
+	"credit": "luximus-hunter",
+  "parent": "block/slab",
+  "textures": {
+    "top": "aris/blocks/stone/bricks/mossy/05",
+    "side": "aris/blocks/stone/bricks/mossy/05",
+    "bottom": "aris/blocks/stone/bricks/mossy/05"
+  }
+}

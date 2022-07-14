@@ -1,0 +1,14 @@
+{
+	"credit": "luximus-hunter",
+  "variants": {
+    "": [
+      { "model": "block/cracked_stone_bricks" },
+      { "model": "aris/blocks/stone/bricks/cracked/block/01" },
+      { "model": "aris/blocks/stone/bricks/cracked/block/02" },
+      { "model": "aris/blocks/stone/bricks/cracked/block/03" },
+      { "model": "aris/blocks/stone/bricks/cracked/block/04" },
+      { "model": "aris/blocks/stone/bricks/cracked/block/05" },
+      { "model": "aris/blocks/stone/bricks/cracked/block/06" }
+    ]
+  }
+}
