@@ -54,11 +54,11 @@
 |   🟢   | dark prismarine                   |
 |   🟢   | dark prismarine stairs            |
 |   🟢   | dark prismarine slab              |
-|   🟠   | bookshelf                         |
-|   🔴   | mud bricks                        |
-|   🔴   | mud brick stairs                  |
-|   🔴   | mud brick slab                    |
-|   🔴   | mud brick wall                    |
+|   🟢   | bookshelf                         |
+|   🟠   | mud bricks                        |
+|   🟠   | mud brick stairs                  |
+|   🟠   | mud brick slab                    |
+|   🟠   | mud brick wall                    |
 |   🔴   | deepslate bricks                  |
 |   🔴   | deepslate brick stairs            |
 |   🔴   | deepslate brick slab              |

@@ -1,0 +1,12 @@
+{
+	"credit": "luximus-hunter",
+  "variants": {
+    "": [
+      { "model": "block/bookshelf" },
+      { "model": "aris/blocks/bookshelf/01" },
+      { "model": "aris/blocks/bookshelf/02" },
+      { "model": "aris/blocks/bookshelf/03" },
+      { "model": "aris/blocks/bookshelf/04" }
+    ]
+  }
+}
