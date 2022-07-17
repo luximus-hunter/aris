@@ -59,6 +59,11 @@
 |   🟠   | mud brick stairs                  |
 |   🟠   | mud brick slab                    |
 |   🟠   | mud brick wall                    |
+|   🟠   | nether quartz bricks              |
+|   🟠   | end stone bricks                  |
+|   🟠   | end stone brick stairs            |
+|   🟠   | end stone brick slab              |
+|   🟠   | end stone brick wall              |
 |   🔴   | deepslate bricks                  |
 |   🔴   | deepslate brick stairs            |
 |   🔴   | deepslate brick slab              |
@@ -78,11 +83,6 @@
 |   🔴   | red nether brick stairs           |
 |   🔴   | red nether brick slab             |
 |   🔴   | red nether brick wall             |
-|   🔴   | end stone bricks                  |
-|   🔴   | end stone brick stairs            |
-|   🔴   | end stone brick slab              |
-|   🔴   | end stone brick wall              |
-|   🔴   | nether quartz bricks              |
 |   🔴   | blackstone bricks                 |
 |   🔴   | blackstone brick stairs           |
 |   🔴   | blackstone brick slab             |
